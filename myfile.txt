@@ -1,3 +1,6 @@
 hello
 good morning
 Good Afternoon
+哈囉
+大家早安
+大家午安
